@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.linkup.app-mergeDebugResources-32:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Disha\\.gradle\\caches\\transforms-3\\7b938e26ee2a76b39024c228e02d4fa0\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
