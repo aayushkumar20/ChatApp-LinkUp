@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/background"
+        android:backgroundTint="@color/blue">
+
+        <TextView
+            android:id="@+id/txtsent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textStyle="normal"
+            android:textColor="@color/black"
+            android:text="@string/this_is_sent_mess"
+            android:textSize="18sp" />
+
+
+</RelativeLayout>

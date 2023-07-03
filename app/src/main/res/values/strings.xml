@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LinkUp</string>
+    <string name="emailad">Email</string>
+
+    <string name="Password">Password</string>
+    <string name="linkup">LinkUp</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login1">Login Now</string>
+    <string name="create_account_to_continue">Create account to continue</string>
+    <string name="name">Name</string>
+    <string name="login_bt">Login</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up_">Sign Up</string>
+    <string name="disha">Disha</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="log_out">Log out</string>
+    <string name="this_is_sent_message">this is sent message</string>
+    <string name="this_is_sent_mess">This is sent message</string>
+</resources>
